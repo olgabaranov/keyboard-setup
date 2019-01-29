@@ -4,9 +4,11 @@ Shift key acts as Control, CapsLock acts as Shift and Control acts as CapsLock
 Full computer restart is needed to apply the changes
 
 Following things are remapped in evdev (from /usr/share/X11/xkb/keycodes/):
-´´´<LCTL> = 37;  -->   <LCTL> = 50;
+```
+<LCTL> = 37;  -->   <LCTL> = 50;
 <LFSH> = 50;  -->   <LFSH> = 66;
-<CAPS> = 60;  -->   <CAPS> = 37;´´´
+<CAPS> = 60;  -->   <CAPS> = 37;
+```
 
 Following things are remapped in de (from /usr/share/X11/xkb/symbols/):
 starting at line 10
