@@ -1,6 +1,7 @@
 Layouts for the modified german programmers keyboard.
 The number keys are mapped to the respective symbols in the default state, using shift they return numbers again.
 Shift key acts as Control, CapsLock acts as Shift and Control acts as CapsLock
+Full computer restart is needed to apply the changes
 
 Following things are remapped in evdev (from /usr/share/X11/xkb/keycodes/):
 ´´´<LCTL> = 37;  -->   <LCTL> = 50;
